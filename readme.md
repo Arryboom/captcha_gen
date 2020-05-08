@@ -1,4 +1,4 @@
-#generate image captcha for ml
+# generate image captcha for ml
 
 sample img:
 ![](./dd/17_H9Tx.png)
@@ -30,7 +30,7 @@ will generate 1000 captcha image in /root/captcha_gen/dd folder.
 
 ---
 
-add noise dots and noise curve by **uncommiting line 133 134**
+add noise dots and noise curve by **uncommit line 133 134**
 
 ```
         #self.create_noise_dots(img)
