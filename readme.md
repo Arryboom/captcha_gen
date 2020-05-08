@@ -1,4 +1,4 @@
-generate image captcha for ml
+#generate image captcha for ml
 
 sample img:
 ![](./dd/17_H9Tx.png)
