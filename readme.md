@@ -1,10 +1,14 @@
 generate image captcha for ml
 
+sample img:
+![](./dd/17_H9Tx.png)
 
-example:
+
+usage example:
 ```
 python3 gen.py img /root/captcha_gen/dd 1000
 ``` 
+will generate 1000 captcha image in /root/captcha_gen/dd folder.
 
 ---
 
@@ -35,5 +39,3 @@ add noise dots and noise curve by **uncommiting line 133 134**
 
 
 
-sample img:
-![](./dd/17_H9Tx.png)
